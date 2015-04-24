@@ -1,0 +1,18 @@
+{
+  "name": "face-image-api",
+  "version": "1.0.0",
+  "description": "API to apply dave faces to images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "opencv": "^3.0.0"
+  },
+  "dependencies": {
+    "canvas": "^1.2.2",
+    "express": "^4.12.3"
+  }
+}
